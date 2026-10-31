@@ -59,6 +59,7 @@
 
 | 仓库 | 做了什么 | 技术与关注点 |
 | --- | --- | --- |
+| [GoChat · 即时通信与 AI 对话](https://github.com/bamboo-ye/goChat)（私有） | 实时消息、用户在线状态、历史记录、离线消息与 AI 机器人对话；[项目介绍](https://bamboo-ye.github.io/cv-ye/gochat_project.html) | Go、WebSocket、Redis、MySQL、大模型 API；消息路由、在线状态管理与离线投递 |
 | [emoji · 表情包生成系统](https://github.com/bamboo-ye/emoji) | 从创建任务、异步图片生成到实时通知的完整链路 | Go、Kafka、Redis、MySQL；Outbox、请求幂等、离线补投与动态降级 |
 | [display_pod · CVPR 论文展示舱](https://github.com/bamboo-ye/display_pod) | 论文采集、流处理、检索与实时可视化大屏 | Python、Kafka、Flink、Gin、Vue 3、ECharts；数据去重与 WebSocket 更新 |
 | [cv-ye · 个人主页](https://github.com/bamboo-ye/cv-ye) | 简历、项目介绍与研究经历的统一入口 | HTML、CSS、GitHub Pages；[在线访问](https://bamboo-ye.github.io/cv-ye/) |
